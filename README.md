@@ -15,7 +15,8 @@ This project uses a custom-built reinforcement learning environment based on the
 - **Goals (Delivery Points) in green:** Represented as specific locations in the grid where the drone must deliver packages.
 - **Obstacles in red:** Represent barriers that the drone must avoid to complete its mission.
 
-![image](https://github.com/user-attachments/assets/5a8132ad-5693-4516-8f67-4ac35e41918b)
+![image](https://github.com/user-attachments/assets/5b1ec072-6ba0-4957-816e-246925845a3d)
+
 
 - **Actions:**
   - `0`: Move up
