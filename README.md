@@ -62,8 +62,8 @@ The model is trained using **Stable-Baselines3**'s **Deep Q-Network (DQN)** algo
 
 ### **1. Clone the Repository**
 ```bash
-git clone [<repository_url>](https://github.com/Kakaymi10/drone_delivery_DQN.git)
-cd [<repository_directory>](https://github.com/Kakaymi10/drone_delivery_DQN.git)
+git clone https://github.com/Kakaymi10/drone_delivery_DQN.git
+cd drone_delivery_DQN
 ```
 
 ### **2. Install Dependencies**
