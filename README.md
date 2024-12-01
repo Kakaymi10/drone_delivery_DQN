@@ -99,7 +99,8 @@ python play.py
 ---
 
 ## **Files in the Repository**
-- **`fitness_gym_env.py`**: Custom Gym environment implementation.
+- **`drone_delivery_gym_env_opt.py`**: Custom Gym environment implementation with termination conditions.
+- - **`drone_delivery_gym_env.py`**: Custom Gym environment implementation without termination conditions.
 - **`train.py`**: Code for training the model using Stable-Baselines3.
 - **`play.py`**: Script to test the trained model.
 - **`test_env.py`**: Script to run a random agent in the environment.
