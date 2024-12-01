@@ -5,6 +5,8 @@ My mission is to build healthtech infrastructure that leverages artificial intel
 
 ---
 
+[Link to demo](https://drive.google.com/file/d/1az8yazw2gvgYKk_dv2q3xZKjxcGjjNFG/view?usp=sharing)
+
 ## **Environment Overview**
 
 This project uses a custom-built reinforcement learning environment based on the Gymnasium framework to simulate a drone navigating a grid. The environment is designed to replicate real-world scenarios, such as avoiding obstacles and efficiently reaching multiple delivery goals.
