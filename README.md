@@ -5,6 +5,7 @@ My mission is to build healthtech infrastructure that leverages artificial intel
 
 ---
 [Link to simulation](https://drive.google.com/file/d/1fHqbK1sTjCrZQ8zQIzq1_c1bCJNZQJuC/view?usp=sharing): It shows how the model behaves in different environments, the model loops infinitely in an environment without a termination condition, otherwise the model successfully complete the task by avoiding all the obstacles.
+
 [Link to demo](https://drive.google.com/file/d/1az8yazw2gvgYKk_dv2q3xZKjxcGjjNFG/view?usp=sharing)
 
 ## **Environment Overview**
