@@ -1,9 +1,9 @@
 import time
 from stable_baselines3 import DQN
-from drone_delivery_gym_env_opt import DroneDeliveryEnv  # Replace with the name of your saved environment file
+from drone_delivery_gym_env_opt import DroneDeliveryEnv 
 
 # Load the trained model
-model = DQN.load("fitness_agent_model")  # Path to the saved model file
+model = DQN.load("drone_delivery_agent_model")  
 
 # Initialize the environment
 env = DroneDeliveryEnv()
@@ -17,7 +17,7 @@ print("Starting environment testing...\n")
 print("Initial Observation:\n", observation)
 
 # Run the agent for a series of steps using the trained model
-for step in range(55):  # Run for a maximum of 55 steps
+for step in range(50):  # Run for a maximum of 55 steps
     if done:
         print("Stopping the simulation as the episode is done.")
         break

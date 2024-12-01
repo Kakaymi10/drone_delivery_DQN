@@ -19,7 +19,6 @@ class DroneDeliveryEnv(gym.Env):
         # Environment variables
         self.agent_pos = [0, 0]  # Starting position
         self.goal_positions = [[4, 4], [2, 2], [1, 3]]  # Exercise stations
-        self.obstacle_positions = [[1, 1], [3, 3], [2, 4]]  # Obstacles
 
         # Visualization
         self.cell_size = 100

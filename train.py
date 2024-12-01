@@ -28,5 +28,5 @@ print("Training complete!")
 
 # Save the model
 model.save("drone_delivery_agent_model")
-print("Model saved as 'fitness_agent_model_2.zip'")
+print("Model saved as 'drone_delivery_agent_model_2.zip'")
 env.close()
