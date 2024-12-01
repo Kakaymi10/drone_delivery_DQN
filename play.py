@@ -17,7 +17,7 @@ print("Starting environment testing...\n")
 print("Initial Observation:\n", observation)
 
 # Run the agent for a series of steps using the trained model
-for step in range(50):  # Run for a maximum of 55 steps
+for step in range(50):  # Run for a maximum of 50 steps
     if done:
         print("Stopping the simulation as the episode is done.")
         break
