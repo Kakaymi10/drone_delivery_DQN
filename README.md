@@ -88,7 +88,7 @@ To retrain the model, run:
 ```bash
 python train.py
 ```
-The training process will save the model as `fitness_agent_model.zip`.
+The training process will save the model as `drone_delivery_agent_model.zip`.
 
 ### **5. Use the Trained Model**
 To play with the trained model, run:
