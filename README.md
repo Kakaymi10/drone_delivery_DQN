@@ -4,7 +4,7 @@
 My mission is to build healthtech infrastructure that leverages artificial intelligence to solve real-world challenges in **healthcare**.  I aim to develop AI-driven solutions that enhance efficiency, accessibility, and impact in these sectors:  **education**, **healthcare**, and **infrastructure**. This project simulates a drone delivery system to improve efficiency in resource distribution, such as delivering critical medical supplies to remote areas.
 
 ---
-
+[Link to simulation](https://drive.google.com/file/d/1fHqbK1sTjCrZQ8zQIzq1_c1bCJNZQJuC/view?usp=sharing): It shows how the model behaves in different environments, the model loops infinitely in an environment without a termination condition, otherwise the model successfully complete the task by avoiding all the obstacles.
 [Link to demo](https://drive.google.com/file/d/1az8yazw2gvgYKk_dv2q3xZKjxcGjjNFG/view?usp=sharing)
 
 ## **Environment Overview**
