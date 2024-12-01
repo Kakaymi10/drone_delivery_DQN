@@ -38,17 +38,19 @@ This project uses a custom-built reinforcement learning environment based on the
 ## **Model Training**
 
 The model is trained using **Stable-Baselines3**'s **Deep Q-Network (DQN)** algorithm. Below are the training details:
-![image](https://github.com/user-attachments/assets/4cc638d2-544b-452f-b001-c1d069778748)
+![image](https://github.com/user-attachments/assets/9fb3dbfd-1901-406b-abb2-fe47c283f065)
+
 
 
 ### **Training Parameters**
-- **Episodes:** 13,268
-- **Total Timesteps:** 99,984
+- **Episodes:** 9,932
+- **Total Timesteps:** 99,965
 - **Learning Rate:** 0.001
+- **loss:** 0.00643
 - **Exploration Rate:** Initially high and gradually reduced to 0.05 to balance exploration and exploitation.
-- **Updates:** 24,745
-- **Average Reward:** ~5.22
-- **Average Episode Length:** 7.12 steps
+- **Updates:** 24,741
+- **Average Reward:** ~68
+- **Average Episode Length:** 10 steps
 
 ### **Training Process**
 1. **Initialization:** The DQN model is set up with a neural network to predict Q-values for each action.
